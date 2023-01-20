@@ -1,3 +1,15 @@
+Exercice 5 :
+
+Pour régler un conflit : 
+étape 1 choisir le texte/code qu’on veut garder, 
+étape 2 commit dans le master, 
+étape 3 retourner vers la branche, 
+étape 4 modifier pour le choix final, 
+étape 5 revenir sur master, 
+étape 6 merge
+
+
+
 créer le dossier exo6, se placer dessus
 git init  
 créer un fichier index.html et lui donner une structure de base
